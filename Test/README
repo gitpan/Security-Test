@@ -1,0 +1,21 @@
+Security/Test version 0.01
+==========================
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+AUTHOR
+       Nigel Wetters (nwetters@cpan.org)
+
+COPYRIGHT
+       Copyright (c) 2001, Nigel Wetters. All Rights Reserved.
+       This module is free software. It may be used,
+       redistributed and/or modified under the same terms as Perl
+       itself.
+
